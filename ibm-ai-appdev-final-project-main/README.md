@@ -1,4 +1,4 @@
-<h1 align="center"> IBM AI Developer </h1>
+<h1 align="center"> IBM AI Developer - Emotion Detector </h1>
 
 ## Emotion Detector
 
